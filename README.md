@@ -1,5 +1,5 @@
 # Diversity in the Movie Industry
-This repo contains the code and data I used to investigate the effect of actor and director characteristics on movie ratings as listed on IMDb.
+This repo contains data and code used to investigate the effect of actor and director characteristics on movie ratings as listed on IMDb.
 
 - scraping: code and resulting data from  data collection
 - dataframe_and_feature_design: combining data and designing features
