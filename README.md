@@ -2,7 +2,7 @@
 This repo contains data and code used to investigate the effect of actor and director characteristics on movie ratings as listed on IMDb.
 
 - data: movie, actor, and director data collected
-- scraping: notebooks with code used for scraping movie, actor, and director pages
+- scraping: notebooks with code used for scraping genre, movie, actor, and director pages
 - dataframe_and_feature_design: combining data and designing features
 - final_movies_df.csv: data used for analyses
 - analysis: EDA and modeling
